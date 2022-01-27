@@ -4,5 +4,5 @@
 
 > This is the __markdown__ cheat sheet. **You can remind yourself  
 
-of the markdown syntax to add readme files to github 
+> of the markdown syntax to add readme files to github 
 
