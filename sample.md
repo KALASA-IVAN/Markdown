@@ -51,7 +51,9 @@ _This text_ is italic
 <!-- UL -->
 
 - Item 1
-- Item 2
+- Item 2 
+
+ *kalasa
 - Item 3
 
 <!-- OL -->
@@ -105,3 +107,10 @@ def add(num1, num2):
 | ------- | ------------------ |
 | Kalasa  | kalasa@gmail.com   |
 | Ivan    | ivan@gmail.com     |
+
+
+
+<!-- Task list -->
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
